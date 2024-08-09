@@ -36,7 +36,7 @@ def capture_image_from_camera(source, save_path):
 def main():
     # configure camera index and set the path
     source = 0  # camera index ( default is 0 )
-    save_path = '圆1.jpg'  # save path
+    save_path = 'hongkai starrail.jpg'  # TYPE YOUR SAVE PATH HERE
 
     # capture image and save
     capture_image_from_camera(source, save_path)
